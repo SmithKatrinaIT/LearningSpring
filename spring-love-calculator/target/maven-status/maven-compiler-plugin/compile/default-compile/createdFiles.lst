@@ -1,0 +1,8 @@
+com/smithexperince/lc/legacy/examples/LCAppController.class
+com/smithexperience/lc/dto/UserInfoDTO.class
+com/smithexperience/lc/config/LCApplicationInitializer.class
+com/smithexperience/lc/controllers/LCRegistrationController.class
+com/smithexperince/lc/legacy/examples/LoveCalculatorApplicationInitializer.class
+com/smithexperience/lc/dto/UserRegistrationDTO.class
+com/smithexperience/lc/controllers/TestController.class
+com/smithexperience/lc/config/LoveCalculatorAppConfig.class
